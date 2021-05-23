@@ -1,5 +1,5 @@
 """
-This is a simple library made by Siddhesh. Version:- 0.1 (Still Developing)
+This is a simple library made by Siddhesh. Version:- 1.0 (Still Developing)
 
 This library is very simple! It has many functions to input, read, create animations, process a name, draw shapes, calculate marks, print tables, a simple GUI calculator,etc.
 This package contains 8 files and over 1000+ lines of code!
@@ -33,7 +33,7 @@ Module made by:
     Scratch Account: @Sid72020123 (Link: https://scratch.mit.edu/users/Sid72020123/)
     My self-made website: https://sid72020123.github.io
 """
-print("☆Welcome to Siddhesh Module(v0.1)!☆")
+print("☆Welcome to Siddhesh Module(v1.0)!☆")
 import siddhesh.console
 import siddhesh.animation
 import siddhesh.math_test
