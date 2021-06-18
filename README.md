@@ -1,7 +1,8 @@
 # siddhesh
 My Python Module
 Type ```pip install siddhesh``` to install it.
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
+![https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 [![PyPI Latest Release](https://img.shields.io/pypi/v/siddhesh.svg)](https://pypi.org/project/siddhesh/)
 [![Package Status](https://img.shields.io/pypi/status/siddhesh.svg)](https://pypi.org/project/siddhesh/)
